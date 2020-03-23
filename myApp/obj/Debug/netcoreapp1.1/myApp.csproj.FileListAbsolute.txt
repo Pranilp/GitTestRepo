@@ -1,0 +1,9 @@
+E:\Pranil\RandDProjects\myApp\bin\Debug\netcoreapp1.1\myApp.deps.json
+E:\Pranil\RandDProjects\myApp\bin\Debug\netcoreapp1.1\myApp.runtimeconfig.json
+E:\Pranil\RandDProjects\myApp\bin\Debug\netcoreapp1.1\myApp.runtimeconfig.dev.json
+E:\Pranil\RandDProjects\myApp\bin\Debug\netcoreapp1.1\myApp.dll
+E:\Pranil\RandDProjects\myApp\bin\Debug\netcoreapp1.1\myApp.pdb
+E:\Pranil\RandDProjects\myApp\obj\Debug\netcoreapp1.1\myApp.csproj.CoreCompileInputs.cache
+E:\Pranil\RandDProjects\myApp\obj\Debug\netcoreapp1.1\myApp.AssemblyInfo.cs
+E:\Pranil\RandDProjects\myApp\obj\Debug\netcoreapp1.1\myApp.dll
+E:\Pranil\RandDProjects\myApp\obj\Debug\netcoreapp1.1\myApp.pdb
